@@ -1,0 +1,44 @@
+from selenium import webdriver
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
+import time, math, os
+
+def calc(x):
+  return str(math.log(abs(12*math.sin(int(x)))))
+
+try: 
+    
+    # Переходим на страницу
+    link = "http://suninjuly.github.io/alert_accept.html"
+    browser = webdriver.Chrome()
+    browser.get(link)
+ 
+     # Нажимаем на кнопку
+    submit_button = browser.find_element(By.CSS_SELECTOR, "button.btn")
+    submit_button.click()  
+    
+    # Подтвердить действие 
+    
+    confirm_window = browser.switch_to.alert
+    confirm_window.accept()
+    
+    # Достаем значение x и заполняем им форму
+    
+    x = int(browser.find_element(By.ID, "input_value").text)
+    function_result = calc(x)    
+    input_field = browser.find_element(By.ID, "answer")
+    input_field.send_keys(function_result)
+    
+    # Отправляем форму
+    submit_button = browser.find_element(By.CSS_SELECTOR, "button.btn")
+    submit_button.click()
+    
+    # Проверяем, что смогли зарегистрироваться
+    # ждем загрузки страницы
+    time.sleep(1)
+
+finally:
+    # ожидание чтобы визуально оценить результаты прохождения скрипта
+    time.sleep(10)
+    # закрываем браузер после всех манипуляций
+    browser.quit()
