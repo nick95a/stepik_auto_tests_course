@@ -1,0 +1,894 @@
+[
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "time,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time.",
+        "description": "time.",
+        "detail": "time.",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson10_step6",
+        "description": "lesson10_step6",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    # Переходим на страницу\n    link = \"http://suninjuly.github.io/cats.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n     # Нажимаем на кнопку\n    submit_button = browser.find_element(By.ID, \"button\")\n    submit_button.click()  ",
+        "detail": "lesson10_step6",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson10_step8",
+        "description": "lesson10_step8",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    # Переходим на страницу\n    link = \"http://suninjuly.github.io/explicit_wait2.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    # Задаем ожидание до становления цены $100\n    desired_price = WebDriverWait(browser, 12).until(EC.text_to_be_present_in_element((By.ID, 'price'), '$100'))\n    # Нажимаем на кнопку Book",
+        "detail": "lesson10_step8",
+        "documentation": {}
+    },
+    {
+        "label": "TestStepikLogin",
+        "kind": 6,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "class TestStepikLogin():\n    def test_login(self, browser):\n        browser.get(link_1)\n        time.sleep(5)\n        login_form_button = browser.find_element(By.CSS_SELECTOR, \"a[href='/lesson/236895/step/1?auth=login']\")\n        login_form_button.click()\n        WebDriverWait(browser, 5).until(EC.visibility_of_all_elements_located((By.CSS_SELECTOR, \"div.modal-dialog-inner\")))\n        input_name_field = browser.find_element(By.ID, \"id_login_email\")\n        input_name_field.send_keys(login)\n        password_name_field = browser.find_element(By.ID, \"id_login_password\")",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "kind": 2,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "def browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\ndef calc_answer():\n    return math.log(int(time.time()))    \nclass TestStepikLogin():\n    def test_login(self, browser):",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "calc_answer",
+        "kind": 2,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "def calc_answer():\n    return math.log(int(time.time()))    \nclass TestStepikLogin():\n    def test_login(self, browser):\n        browser.get(link_1)\n        time.sleep(5)\n        login_form_button = browser.find_element(By.CSS_SELECTOR, \"a[href='/lesson/236895/step/1?auth=login']\")\n        login_form_button.click()\n        WebDriverWait(browser, 5).until(EC.visibility_of_all_elements_located((By.CSS_SELECTOR, \"div.modal-dialog-inner\")))\n        input_name_field = browser.find_element(By.ID, \"id_login_email\")",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "login = \"\"\npassword = \"\"\nanswer_string = \"\"\nlink_1 = \"https://stepik.org/lesson/236895/step/1\"\nlink_2 = \"https://stepik.org/lesson/236896/step/1\"\nlink_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "password = \"\"\nanswer_string = \"\"\nlink_1 = \"https://stepik.org/lesson/236895/step/1\"\nlink_2 = \"https://stepik.org/lesson/236896/step/1\"\nlink_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "answer_string",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "answer_string = \"\"\nlink_1 = \"https://stepik.org/lesson/236895/step/1\"\nlink_2 = \"https://stepik.org/lesson/236896/step/1\"\nlink_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_1",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_1 = \"https://stepik.org/lesson/236895/step/1\"\nlink_2 = \"https://stepik.org/lesson/236896/step/1\"\nlink_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_2",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_2 = \"https://stepik.org/lesson/236896/step/1\"\nlink_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_3",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_3 = \"https://stepik.org/lesson/236897/step/1\"\nlink_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_4",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_4 = \"https://stepik.org/lesson/236898/step/1\"\nlink_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_5",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_5 = \"https://stepik.org/lesson/236899/step/1\"\nlink_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_6",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_6 = \"https://stepik.org/lesson/236903/step/1\"\nlink_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_7",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_7 = \"https://stepik.org/lesson/236904/step/1\"\nlink_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\ndef calc_answer():",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link_8",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "link_8 = \"https://stepik.org/lesson/236905/step/1\"\n@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\ndef calc_answer():\n    return math.log(int(time.time()))    ",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "@pytest.fixture(scope",
+        "kind": 5,
+        "importPath": "lesson18_step5",
+        "description": "lesson18_step5",
+        "peekOfCode": "@pytest.fixture(scope = 'class')\ndef browser():\n    browser = webdriver.Chrome()\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\ndef calc_answer():\n    return math.log(int(time.time()))    \nclass TestStepikLogin():",
+        "detail": "lesson18_step5",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "lesson6_step4",
+        "description": "lesson6_step4",
+        "peekOfCode": "link = \"http://suninjuly.github.io/simple_form_find_task.html\"\ntry:\n    browser = webdriver.Chrome()\n    browser.get(link)\n    input1 = browser.find_element(By.TAG_NAME, \"input\")\n    input1.send_keys(\"Ivan\")\n    input2 = browser.find_element(By.NAME, \"last_name\")\n    input2.send_keys(\"Petrov\")\n    input3 = browser.find_element(By.CLASS_NAME, \"city\")\n    input3.send_keys(\"Smolensk\")",
+        "detail": "lesson6_step4",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "lesson6_step8",
+        "description": "lesson6_step8",
+        "peekOfCode": "link = \"http://suninjuly.github.io/find_xpath_form\"\ntry:\n    browser = webdriver.Chrome()\n    browser.get(link)\n    input1 = browser.find_element(By.TAG_NAME, \"input\")\n    input1.send_keys(\"Ivan\")\n    input2 = browser.find_element(By.NAME, \"last_name\")\n    input2.send_keys(\"Petrov\")\n    input3 = browser.find_element(By.CLASS_NAME, \"city\")\n    input3.send_keys(\"Smolensk\")",
+        "detail": "lesson6_step8",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson7_step5",
+        "description": "lesson7_step5",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    link = \"https://suninjuly.github.io/math.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    # Код, который заполняет обязательные поля\n    x_element = browser.find_element(By.ID, \"input_value\")\n    x_value = x_element.text\n    expression_value = calc(x_value)",
+        "detail": "lesson7_step5",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson7_step7",
+        "description": "lesson7_step7",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    link = \"http://suninjuly.github.io/get_attribute.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    # Найдем нужный элемент для вычисления функции\n    img_element = browser.find_element(By.TAG_NAME, \"img\")\n    x_value = img_element.get_attribute(\"valuex\")\n    expression_value = calc(x_value)",
+        "detail": "lesson7_step7",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson8_step3",
+        "description": "lesson8_step3",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    link = \"http://suninjuly.github.io/selects1.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    # Извлечем значение каждого из двух элементов и посчитаем их сумму\n    num1 = int(browser.find_element(By.ID, \"num1\").text)\n    num2 = int(browser.find_element(By.ID, \"num2\").text)\n    sum =  num1 + num2",
+        "detail": "lesson8_step3",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson8_step6",
+        "description": "lesson8_step6",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    link = \"http://suninjuly.github.io/execute_script.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    submit_button = browser.find_element(By.CSS_SELECTOR, \"button.btn\")\n    browser.execute_script(\"window.scrollBy(0, 100)\")\n    # Извлечем значение x\n    x = int(browser.find_element(By.ID, \"input_value\").text)",
+        "detail": "lesson8_step6",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson8_step8",
+        "description": "lesson8_step8",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    current_dir = os.path.abspath(os.path.dirname(__file__))\n    file_path = os.path.join(current_dir, \"empty.txt\")\n    # Переходим на страницу\n    link = \"http://suninjuly.github.io/file_input.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n    # Заполняем поля",
+        "detail": "lesson8_step8",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson9_step4",
+        "description": "lesson9_step4",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    # Переходим на страницу\n    link = \"http://suninjuly.github.io/alert_accept.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n     # Нажимаем на кнопку\n    submit_button = browser.find_element(By.CSS_SELECTOR, \"button.btn\")\n    submit_button.click()  ",
+        "detail": "lesson9_step4",
+        "documentation": {}
+    },
+    {
+        "label": "calc",
+        "kind": 2,
+        "importPath": "lesson9_step6",
+        "description": "lesson9_step6",
+        "peekOfCode": "def calc(x):\n  return str(math.log(abs(12*math.sin(int(x)))))\ntry: \n    # Переходим на страницу\n    link = \"http://suninjuly.github.io/redirect_accept.html\"\n    browser = webdriver.Chrome()\n    browser.get(link)\n     # Нажимаем на кнопку\n    submit_button = browser.find_element(By.CSS_SELECTOR, \"button.btn\")\n    submit_button.click()  ",
+        "detail": "lesson9_step6",
+        "documentation": {}
+    },
+    {
+        "label": "TestStepikLogin",
+        "kind": 6,
+        "importPath": "stepik_login_test",
+        "description": "stepik_login_test",
+        "peekOfCode": "class TestStepikLogin:\n    @pytest.mark.xfail(reason = \"pop-up window not available\")\n    def test_login(self, browser):\n        time.sleep(5)\n        login_form_button = browser.find_element(By.CSS_SELECTOR, \"a[href='/lesson/236895/step/1?auth=login']\")\n        login_form_button.click()\n        WebDriverWait(browser, 5).until(EC.visibility_of_all_elements_located((By.CSS_SELECTOR, \"div.modal-dialog-inner\")))\n        input_name_field = browser.find_element(By.ID, \"id_login_email\")\n        input_name_field.send_keys(\"nick95a@yandex.ru\")\n        password_name_field = browser.find_element(By.ID, \"id_login_password\")",
+        "detail": "stepik_login_test",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "kind": 2,
+        "importPath": "stepik_login_test",
+        "description": "stepik_login_test",
+        "peekOfCode": "def browser():\n    browser = webdriver.Chrome()\n    browser.get(link)\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\nclass TestStepikLogin:\n    @pytest.mark.xfail(reason = \"pop-up window not available\")\n    def test_login(self, browser):",
+        "detail": "stepik_login_test",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "stepik_login_test",
+        "description": "stepik_login_test",
+        "peekOfCode": "link = \"https://stepik.org/lesson/236895/step/1\"\n@pytest.fixture\ndef browser():\n    browser = webdriver.Chrome()\n    browser.get(link)\n    print(\"Loading the page\")\n    yield browser\n    browser.quit()\n    print(\"Quiting the browser\")\nclass TestStepikLogin:",
+        "detail": "stepik_login_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_abs1",
+        "kind": 2,
+        "importPath": "test_abs",
+        "description": "test_abs",
+        "peekOfCode": "def test_abs1():\n    assert abs(-42) == 42, \"Should be absolute value of a number\"\ndef test_abs2():\n    assert abs(-42) == -42, \"Should be absolute value of a number\"",
+        "detail": "test_abs",
+        "documentation": {}
+    },
+    {
+        "label": "test_abs2",
+        "kind": 2,
+        "importPath": "test_abs",
+        "description": "test_abs",
+        "peekOfCode": "def test_abs2():\n    assert abs(-42) == -42, \"Should be absolute value of a number\"",
+        "detail": "test_abs",
+        "documentation": {}
+    },
+    {
+        "label": "TestAbs",
+        "kind": 6,
+        "importPath": "test_abs_project",
+        "description": "test_abs_project",
+        "peekOfCode": "class TestAbs(unittest.TestCase):\n    def test_abs1(self):\n        self.assertEqual(abs(-42), 42 , \"Should be absolute value of a number\")\n    def test_abs2(self):\n        self.assertEqual(abs(-42), -42, \"Should be absolute value of a number\")\nif __name__ == \"__main__\":\n    unittest.main()",
+        "detail": "test_abs_project",
+        "documentation": {}
+    },
+    {
+        "label": "TestAbs",
+        "kind": 6,
+        "importPath": "test_abs_project_pytest",
+        "description": "test_abs_project_pytest",
+        "peekOfCode": "class TestAbs(unittest.TestCase):\n    def test_abs1():\n       assert abs(-42) == 42, \"Should be absolute value of a number\"\n    def test_abs2():\n        assert abs(-42) == -42, \"Should be absolute value of a number\"\nif __name__ == \"__main__\":\n    unittest.main()",
+        "detail": "test_abs_project_pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestMainPage1",
+        "kind": 6,
+        "importPath": "test_fixture1",
+        "description": "test_fixture1",
+        "peekOfCode": "class TestMainPage1():\n    @classmethod\n    def setup_class(self):\n        print(\"\\nstart browser for test suite..\")\n        self.browser = webdriver.Chrome()\n    @classmethod\n    def teardown_class(self):\n        print(\"quit browser for test suite..\")\n        self.browser.quit()\n    def test_guest_should_see_login_link(self):",
+        "detail": "test_fixture1",
+        "documentation": {}
+    },
+    {
+        "label": "TestMainPage2",
+        "kind": 6,
+        "importPath": "test_fixture1",
+        "description": "test_fixture1",
+        "peekOfCode": "class TestMainPage2():\n    def setup_method(self):\n        print(\"start browser for test..\")\n        self.browser = webdriver.Chrome()\n    def teardown_method(self):\n        print(\"quit browser for test..\")\n        self.browser.quit()\n    def test_guest_should_see_login_link(self):\n        self.browser.get(link)\n        self.browser.find_element(By.CSS_SELECTOR, \"#login_link\")",
+        "detail": "test_fixture1",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "test_fixture1",
+        "description": "test_fixture1",
+        "peekOfCode": "link = \"http://selenium1py.pythonanywhere.com/\"\nclass TestMainPage1():\n    @classmethod\n    def setup_class(self):\n        print(\"\\nstart browser for test suite..\")\n        self.browser = webdriver.Chrome()\n    @classmethod\n    def teardown_class(self):\n        print(\"quit browser for test suite..\")\n        self.browser.quit()",
+        "detail": "test_fixture1",
+        "documentation": {}
+    },
+    {
+        "label": "TestMainPage1",
+        "kind": 6,
+        "importPath": "test_fixture2",
+        "description": "test_fixture2",
+        "peekOfCode": "class TestMainPage1():\n    # вызываем фикстуру в тесте, передав ее как параметр\n    def test_guest_should_see_login_link(self, browser):\n        browser.get(link)\n        browser.find_element(By.CSS_SELECTOR, \"#login_link\")\n    def test_guest_should_see_basket_link_on_the_main_page(self, browser):\n        browser.get(link)\n        browser.find_element(By.CSS_SELECTOR, \".basket-mini .btn-group > a\")",
+        "detail": "test_fixture2",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "kind": 2,
+        "importPath": "test_fixture2",
+        "description": "test_fixture2",
+        "peekOfCode": "def browser():\n    print(\"\\nstart browser for test..\")\n    browser = webdriver.Chrome()\n    return browser\nclass TestMainPage1():\n    # вызываем фикстуру в тесте, передав ее как параметр\n    def test_guest_should_see_login_link(self, browser):\n        browser.get(link)\n        browser.find_element(By.CSS_SELECTOR, \"#login_link\")\n    def test_guest_should_see_basket_link_on_the_main_page(self, browser):",
+        "detail": "test_fixture2",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "test_fixture2",
+        "description": "test_fixture2",
+        "peekOfCode": "link = \"http://selenium1py.pythonanywhere.com/\"\n@pytest.fixture\ndef browser():\n    print(\"\\nstart browser for test..\")\n    browser = webdriver.Chrome()\n    return browser\nclass TestMainPage1():\n    # вызываем фикстуру в тесте, передав ее как параметр\n    def test_guest_should_see_login_link(self, browser):\n        browser.get(link)",
+        "detail": "test_fixture2",
+        "documentation": {}
+    },
+    {
+        "label": "TestMainPage1",
+        "kind": 6,
+        "importPath": "test_fixture3",
+        "description": "test_fixture3",
+        "peekOfCode": "class TestMainPage1():\n    # вызываем фикстуру в тесте, передав ее как параметр\n    def test_guest_should_see_login_link(self, browser):\n        browser.get(link)\n        browser.find_element(By.CSS_SELECTOR, \"#login_link\")\n    def test_guest_should_see_basket_link_on_the_main_page(self, browser):\n        browser.get(link)\n        browser.find_element(By.CSS_SELECTOR, \".basket-mini .btn-group > a\")",
+        "detail": "test_fixture3",
+        "documentation": {}
+    },
+    {
+        "label": "browser",
+        "kind": 2,
+        "importPath": "test_fixture3",
+        "description": "test_fixture3",
+        "peekOfCode": "def browser():\n    print(\"\\nstart browser for test..\")\n    browser = webdriver.Chrome()\n    yield browser\n    # этот код выполнится после завершения теста\n    print(\"\\nquit browser..\")\n    browser.quit()\nclass TestMainPage1():\n    # вызываем фикстуру в тесте, передав ее как параметр\n    def test_guest_should_see_login_link(self, browser):",
+        "detail": "test_fixture3",
+        "documentation": {}
+    },
+    {
+        "label": "link",
+        "kind": 5,
+        "importPath": "test_fixture3",
+        "description": "test_fixture3",
+        "peekOfCode": "link = \"http://selenium1py.pythonanywhere.com/\"\n@pytest.fixture\ndef browser():\n    print(\"\\nstart browser for test..\")\n    browser = webdriver.Chrome()\n    yield browser\n    # этот код выполнится после завершения теста\n    print(\"\\nquit browser..\")\n    browser.quit()\nclass TestMainPage1():",
+        "detail": "test_fixture3",
+        "documentation": {}
+    },
+    {
+        "label": "Test_Lesson6_Step12",
+        "kind": 6,
+        "importPath": "test_lesson6_step12",
+        "description": "test_lesson6_step12",
+        "peekOfCode": "class Test_Lesson6_Step12(unittest.TestCase):\n    def test_page1(self):\n            link = \"http://suninjuly.github.io/registration1.html\"\n            browser = webdriver.Chrome()\n            browser.get(link)\n            # Ваш код, который заполняет обязательные поля\n            first_name_input = browser.find_element(By.XPATH, \"//body/div/form/div[1]//input\")\n            first_name_input.send_keys(\"Ivan\")\n            last_name_input = browser.find_element(By.XPATH, \"//body/div/form/div[1]/div[2]/input\")\n            last_name_input.send_keys(\"Ivanov\")",
+        "detail": "test_lesson6_step12",
+        "documentation": {}
+    },
+    {
+        "label": "test_succeed",
+        "kind": 2,
+        "importPath": "test_xfail",
+        "description": "test_xfail",
+        "peekOfCode": "def test_succeed():\n    assert True\n@pytest.mark.xfail()\ndef test_not_succeed():\n    assert False\n@pytest.mark.skip\ndef test_skipped():\n    assert False",
+        "detail": "test_xfail",
+        "documentation": {}
+    },
+    {
+        "label": "test_not_succeed",
+        "kind": 2,
+        "importPath": "test_xfail",
+        "description": "test_xfail",
+        "peekOfCode": "def test_not_succeed():\n    assert False\n@pytest.mark.skip\ndef test_skipped():\n    assert False",
+        "detail": "test_xfail",
+        "documentation": {}
+    },
+    {
+        "label": "test_skipped",
+        "kind": 2,
+        "importPath": "test_xfail",
+        "description": "test_xfail",
+        "peekOfCode": "def test_skipped():\n    assert False",
+        "detail": "test_xfail",
+        "documentation": {}
+    },
+    {
+        "label": "@pytest.mark.xfail(strict",
+        "kind": 5,
+        "importPath": "test_xfail",
+        "description": "test_xfail",
+        "peekOfCode": "@pytest.mark.xfail(strict = True)\ndef test_succeed():\n    assert True\n@pytest.mark.xfail()\ndef test_not_succeed():\n    assert False\n@pytest.mark.skip\ndef test_skipped():\n    assert False",
+        "detail": "test_xfail",
+        "documentation": {}
+    }
+]
